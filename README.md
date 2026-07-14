@@ -1,0 +1,1 @@
+Created a responsive front-end Netflix clone with modern layout using HTML and CSS. Implemented interactive UI sections, media queries for mobile responsiveness, and used Git for version control. Designed to simulate a real streaming platform landing page.
